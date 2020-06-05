@@ -4,7 +4,7 @@ import './App.css'
 class Box extends Component {
   render(){
     return(
-      <div style={{border: '1px solid #CD5C5C', margin:15}}>
+      <div style={{border: '1px solid #CD5C5C', margin:14}}>
         { children}
       </div>
     )

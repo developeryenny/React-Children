@@ -3,6 +3,7 @@ import './App.css'
 import PropTypes from 'prop-types'
 
 
+
 class Article extends Component {
   static propTypes = {
     codigo:PropTypes.string.isRequired
